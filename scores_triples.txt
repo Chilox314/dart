@@ -1,0 +1,3 @@
+Date    Target  Throws  Triple  Single  Surrounding NoScore
+2023-03-15	20	27	1	5	12	9
+2023-03-16	20	39	1	9	11	18
